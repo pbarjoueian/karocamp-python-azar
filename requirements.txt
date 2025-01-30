@@ -1,0 +1,5 @@
+black
+flake8
+autoflake
+isort
+pre-commit
